@@ -24,7 +24,7 @@ def main():
 
 # Read streamer logins from command-line arguments, if possible. Otherwise, prompt user input.
 def read_streamer_logins():
-    user_input = ["ez4qcan", "sovaf", "everon__", "hokageee77", "yakcsgo", "hardosx", "4pokkkkkkk", "smetan_in", "blackwzor", "lufacs"]
+    user_input = ["ez4qcan", "sovaf", "everon__", "hokageee77", "yakcsgo", "hardosx", "4pokkkkkkk", "smetan_in", "blackwzor", "lufacs", "zxcursed"]
     streamer_logins = []
     for streamer_login in user_input:
         streamer_login = streamer_login.strip()
